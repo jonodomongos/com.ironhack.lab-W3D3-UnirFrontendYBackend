@@ -1,15 +1,1 @@
-# Maven/Java ignores
-.target/
-target/
-*.class
-*.log
-*.tmp
-*.swp
-.DS_Store
-.idea/
-*.iml
-.classpath
-.project
-.settings/
-out/
-.mvn/wrapper/maven-wrapper.jar
+
